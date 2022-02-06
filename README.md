@@ -75,4 +75,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ### Moreover
 
 I was introduced to this framework by my teacher and decided to dig more into it.
-Find it really interesting and quite easy to learn and work with it! I recommend it :)
+Find it really interesting, quite easy to learn and work with it! I recommend it :)
