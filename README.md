@@ -70,4 +70,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
-### *CAREFUL! node_modules folder isn't uploaded here, they are created when you create your react js project by using `npx create-react-app app-name` *
+### CAREFUL! node_modules folder isn't uploaded here, they are created when you create your react js project by using `npx create-react-app app-name` 
+
+### Moreover
+
+I was introduced to this framework by my teacher and decided to dig more into it.
+Find it really interesting and quite easy to learn and work with it! I recommend it :)
